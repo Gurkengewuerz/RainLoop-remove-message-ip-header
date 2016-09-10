@@ -1,8 +1,10 @@
 # RainLoop IP Adress Hider
 
-Hides the Server IP adress and the Hostname from the Email Header.  
-**Notice: The "Received: From" can not be changed, because this is set by the provider!**
+Hides the Server IP adress and the Hostname from the Email Header.
 
+**Notice: The "Received: From" can not be changed, because this is set by the provider!  
+The Hostname is send while the ehlo/ helo phase**  
+[Source](http://serverfault.com/a/760543 "serverfault.com")
 
 *Without IP Adress Hider:*
 ```
