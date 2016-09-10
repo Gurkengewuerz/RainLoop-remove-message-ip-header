@@ -1,0 +1,2 @@
+Hides the Server IP adress and the Hostname from the Email Header.
+Notice: The "Received: From" can not be changed, because this is set by the provider!
